@@ -29,19 +29,19 @@
         <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
           <div class="owl-carousel header-carousel">
             <div class="owl-carousel-item position-relative">
-              <img class="img-fluid" src="./img/carousel-1.jpg" alt="" />
+              <img class="img-fluid" src="./../assets/img/carousel-1.jpg" alt="" />
               <div class="owl-carousel-text">
                 <h1 class="display-1 text-white mb-0">Cardiology</h1>
               </div>
             </div>
             <div class="owl-carousel-item position-relative">
-              <img class="img-fluid" src="./img/carousel-2.jpg" alt="" />
+              <img class="img-fluid" src="./../assets/img/carousel-2.jpg" alt="" />
               <div class="owl-carousel-text">
                 <h1 class="display-1 text-white mb-0">Neurology</h1>
               </div>
             </div>
             <div class="owl-carousel-item position-relative">
-              <img class="img-fluid" src="./img/carousel-3.jpg" alt="" />
+              <img class="img-fluid" src="./../assets/img/carousel-3.jpg" alt="" />
               <div class="owl-carousel-text">
                 <h1 class="display-1 text-white mb-0">Pulmonary</h1>
               </div>
@@ -58,10 +58,10 @@
         <div class="row g-5">
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
             <div class="d-flex flex-column">
-              <img class="img-fluid rounded w-75 align-self-end" src="./img/about-1.jpg" alt="" />
+              <img class="img-fluid rounded w-75 align-self-end" src="./../assets/img/about-1.jpg" alt="" />
               <img
                 class="img-fluid rounded w-50 bg-white pt-3 pe-3"
-                src="./img/about-2.jpg"
+                src="./../assets/img/about-2.jpg"
                 alt=""
                 style="margin-top: -25%"
               />
@@ -281,7 +281,7 @@
             <div class="position-relative h-100">
               <img
                 class="position-absolute img-fluid w-100 h-100"
-                src="./img/feature.jpg"
+                src="./../assets/img/feature.jpg"
                 style="object-fit: cover"
                 alt=""
               />
@@ -307,7 +307,7 @@
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="team-item position-relative rounded overflow-hidden">
               <div class="overflow-hidden">
-                <img class="img-fluid" src="./img/team-1.jpg" alt="" />
+                <img class="img-fluid" src="./../assets/img/team-1.jpg" alt="" />
               </div>
               <div class="team-text bg-light text-center p-4">
                 <h5>Doctor Name</h5>
@@ -323,7 +323,7 @@
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
             <div class="team-item position-relative rounded overflow-hidden">
               <div class="overflow-hidden">
-                <img class="img-fluid" src="./img/team-2.jpg" alt="" />
+                <img class="img-fluid" src="./../assets/img/team-2.jpg" alt="" />
               </div>
               <div class="team-text bg-light text-center p-4">
                 <h5>Doctor Name</h5>
@@ -339,7 +339,7 @@
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
             <div class="team-item position-relative rounded overflow-hidden">
               <div class="overflow-hidden">
-                <img class="img-fluid" src="./img/team-3.jpg" alt="" />
+                <img class="img-fluid" src="./../assets/img/team-3.jpg" alt="" />
               </div>
               <div class="team-text bg-light text-center p-4">
                 <h5>Doctor Name</h5>
@@ -355,7 +355,7 @@
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
             <div class="team-item position-relative rounded overflow-hidden">
               <div class="overflow-hidden">
-                <img class="img-fluid" src="./img/team-4.jpg" alt="" />
+                <img class="img-fluid" src="./../assets/img/team-4.jpg" alt="" />
               </div>
               <div class="team-text bg-light text-center p-4">
                 <h5>Doctor Name</h5>
